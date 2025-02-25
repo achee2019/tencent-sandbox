@@ -2,104 +2,109 @@
     <MappedFolders>
         <!-- 桌面 -->
         <MappedFolder>
-            <HostFolder>.\Desktop</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Desktop</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop</SandboxFolder>
+            <ReadOnly>false</ReadOnly>
+        </MappedFolder>
+        <MappedFolder>
+            <HostFolder>E:\GeneralHS</HostFolder>
+            <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\GeneralHS</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <!-- App -->
         <MappedFolder>
-            <HostFolder>.\App\WeChat</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\WeChat</HostFolder>
             <SandboxFolder>C:\Program Files\Tencent\WeChat</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\App\QQ</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\QQ</HostFolder>
             <SandboxFolder>C:\Program Files (x86)\Tencent\QQ</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\App\TIM</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\TIM</HostFolder>
             <SandboxFolder>C:\Program Files (x86)\Tencent\TIM</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\App\QQNT</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\QQNT</HostFolder>
             <SandboxFolder>C:\Program Files\Tencent\QQNT</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\App\WXWork</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\WXWork</HostFolder>
             <SandboxFolder>C:\Program Files (x86)\WXWork</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <!-- Roaming -->
         <MappedFolder>
-            <HostFolder>.\Data\Roaming\WeChat</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Roaming\WeChat</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\AppData\Roaming\Tencent\WeChat</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\Data\Roaming\Tencent</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Roaming\Tencent</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\AppData\Roaming\Tencent\Tencent</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\Data\Roaming\TencentDocs</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Roaming\TencentDocs</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\AppData\Roaming\TDAppDesktop</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\Data\Roaming\WeMeet</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Roaming\WeMeet</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\AppData\Roaming\Tencent\WeMeet</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <!-- Documents -->
         <MappedFolder>
-            <HostFolder>.\Data\Documents\WeChat</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Documents\WeChat</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\Documents\WeChat Files</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\Data\Documents\Tencent</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Documents\Tencent</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\Documents\Tencent Files</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\Data\Documents\WXWork</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Documents\WXWork</HostFolder>
             <SandboxFolder>C:\Users\WDAGUtilityAccount\Documents\WXWork</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\App\Meeting</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\Meeting</HostFolder>
             <SandboxFolder>C:\Program Files (x86)\Tencent\WeMeet</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <MappedFolder>
-            <HostFolder>.\App\TencentDocs</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\App\TencentDocs</HostFolder>
             <SandboxFolder>C:\Program Files\TencentDocs</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <!-- Common Files -->
         <MappedFolder>
-            <HostFolder>.\Data\Common Files</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\Common Files</HostFolder>
             <SandboxFolder>C:\Program Files (x86)\Common Files</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <!-- ProgramData -->
         <MappedFolder>
-            <HostFolder>.\Data\ProgramData\Tencent</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Data\ProgramData\Tencent</HostFolder>
             <SandboxFolder>C:\ProgramData\Tencent</SandboxFolder>
             <ReadOnly>false</ReadOnly>
         </MappedFolder>
         <!-- 脚本 -->
         <MappedFolder>
-            <HostFolder>.\Scripts</HostFolder>
+            <HostFolder>E:\GitHub\tencent-sandbox\Scripts</HostFolder>
             <SandboxFolder>C:\Scripts</SandboxFolder> 
             <ReadOnly>true</ReadOnly> 
         </MappedFolder>
         <!-- SysWOW64 -->
         <MappedFolder> 
-          <HostFolder>.\Data\SysWOW64</HostFolder> 
+          <HostFolder>E:\GitHub\tencent-sandbox\Data\SysWOW64</HostFolder> 
           <SandboxFolder>C:\Windows\SysWOW64</SandboxFolder> 
           <ReadOnly>true</ReadOnly> 
         </MappedFolder>
